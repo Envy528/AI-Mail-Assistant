@@ -1,0 +1,16 @@
+{
+  "name": "ai-mail-assistant",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^8.0.13"
+  },
+  "dependencies": {
+    "jspdf": "^4.2.1"
+  }
+}

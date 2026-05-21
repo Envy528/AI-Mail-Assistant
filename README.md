@@ -113,6 +113,7 @@ ai-mail-assistant/
 │   └── style.css     # Estilos de la aplicación
 ├── index.html        # Punto de entrada HTML
 ├── package.json      # Dependencias y scripts
+├── package-lock.json # Versiones exactas instaladas
 └── README.md
 ```
 
